@@ -1,3 +1,18 @@
+var recipes = {};
+var newRecipes = Object.assign({}, recipes);
+
+function deleteFromObjectByKey(object, key) {
+  delete newRecipes;
+  return object;
+}
+
+
+
+
+
+
+
+
 # JavaScript Objects
 
 ## Overview
